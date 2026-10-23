@@ -140,6 +140,6 @@ Modules plus variables turn copy-paste into reuse.
 ## Author
 
 **Udit Raj Dubey**
-[GitHub](https://github.com/uditrajdubey) · [LinkedIn](https://linkedin.com/in/udit-raj-dubey) · [Portfolio](https://uditrajdubey.github.io)
+[GitHub](https://github.com/uditrajdubey) · https://www.linkedin.com/in/udit-raj-dubey-0a551528a/?isSelfProfile=true .
 
 Part of my #90DaysOfDevops journey.
