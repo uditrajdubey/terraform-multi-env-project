@@ -35,7 +35,6 @@ terraform-with-project
     └── terra-automate-key.pub
 ```
 
----
 
 ## How it works
 
